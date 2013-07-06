@@ -1,5 +1,5 @@
-activitystrem_twitter
-=====================
+activitystream_twitter
+======================
 
 Addon for the drupal 6.x activity stream module allowing to import user tweets from Twitter
 You can find the activity stream at the following URL : http://drupal.org/project/activitystream/
